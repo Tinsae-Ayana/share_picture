@@ -1,4 +1,4 @@
-# instagram_clone
+# share_pictures
 
 A new Flutter project.
 
